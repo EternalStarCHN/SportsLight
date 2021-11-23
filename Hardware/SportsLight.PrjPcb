@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ZQOKQOOB
 
 [Document2]
-DocumentPath=SportsLight.PcbDoc
+DocumentPath=SportsLight_ASCII.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1005,6 +1005,14 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for SportsLight\Design Rule Check - SportsLight.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for SportsLight\Design Rule Check - SportsLight_ASCII.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
