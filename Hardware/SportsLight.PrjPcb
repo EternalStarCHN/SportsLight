@@ -710,23 +710,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document40]
-DocumentPath=..\..\AltiumDesignerPackageLibrary\封装库\集成封装库\集成库文件\固定柱.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document41]
 DocumentPath=..\..\AltiumDesignerPackageLibrary\封装库\集成封装库\集成库文件\光电隔离器.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -743,7 +726,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document41]
 DocumentPath=..\..\AltiumDesignerPackageLibrary\封装库\集成封装库\集成库文件\继电器.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -760,7 +743,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document42]
 DocumentPath=..\..\AltiumDesignerPackageLibrary\封装库\集成封装库\集成库文件\简易牛角座.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -777,7 +760,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document43]
 DocumentPath=..\..\AltiumDesignerPackageLibrary\封装库\集成封装库\集成库文件\晶振.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -794,7 +777,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document45]
+[Document44]
 DocumentPath=..\..\AltiumDesignerPackageLibrary\封装库\集成封装库\集成库文件\可控硅.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -811,7 +794,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document46]
+[Document45]
 DocumentPath=..\..\AltiumDesignerPackageLibrary\封装库\集成封装库\集成库文件\纽扣电池座.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -828,7 +811,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document47]
+[Document46]
 DocumentPath=..\..\AltiumDesignerPackageLibrary\封装库\集成封装库\集成库文件\排母.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -845,7 +828,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document48]
+[Document47]
 DocumentPath=..\..\AltiumDesignerPackageLibrary\封装库\集成封装库\集成库文件\排针.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -862,7 +845,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document49]
+[Document48]
 DocumentPath=..\..\AltiumDesignerPackageLibrary\封装库\集成封装库\集成库文件\轻触开关.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -879,7 +862,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document50]
+[Document49]
 DocumentPath=..\..\AltiumDesignerPackageLibrary\封装库\集成封装库\集成库文件\三极管.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -896,7 +879,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document51]
+[Document50]
 DocumentPath=..\..\AltiumDesignerPackageLibrary\封装库\集成封装库\集成库文件\数码管.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -913,7 +896,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document52]
+[Document51]
 DocumentPath=..\..\AltiumDesignerPackageLibrary\封装库\集成封装库\集成库文件\天线座.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -930,7 +913,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document53]
+[Document52]
 DocumentPath=..\..\AltiumDesignerPackageLibrary\封装库\集成封装库\集成库文件\通讯系列IC.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -947,7 +930,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document54]
+[Document53]
 DocumentPath=..\..\AltiumDesignerPackageLibrary\封装库\集成封装库\集成库文件\网络插座.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -964,7 +947,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document55]
+[Document54]
 DocumentPath=..\..\AltiumDesignerPackageLibrary\封装库\集成封装库\集成库文件\未分类IC.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -981,7 +964,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document56]
+[Document55]
 DocumentPath=..\..\AltiumDesignerPackageLibrary\封装库\集成封装库\集成库文件\音频插座.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -998,7 +981,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document57]
+[Document56]
 DocumentPath=..\..\AltiumDesignerPackageLibrary\封装库\集成封装库\集成库文件\整流桥.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1016,6 +999,10 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for SportsLight\Design Rule Check - SportsLight.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for SportsLight\Design Rule Check - SportsLight_ASCII.html
 DItemRevisionGUID=
 

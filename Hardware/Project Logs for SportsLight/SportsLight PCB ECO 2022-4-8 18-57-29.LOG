@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetD2_A Pin=D2-A
+Removed Pin From Net: NetName=NetD2_K Pin=D2-K
+Change Component Footprint: Designator=D2 Old Footprint=LED-0603Y New Footprint=LED-0602-RD
+Added Pin To Net: NetName=NetD2_A Pin=D2-1
+Added Pin To Net: NetName=NetD2_K Pin=D2-2
